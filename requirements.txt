@@ -1,11 +1,11 @@
 aniso8601==1.1.0
 click==6.6
 ElfEsteem==0.1
-Flask==0.11.1
+Flask==0.12.3
 Flask-RESTful==0.3.5
 future==0.15.2
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2==2.11.3
 Markdown==2.6.7
 MarkupSafe==0.23
 pefile==2016.3.28
@@ -16,4 +16,4 @@ pytz==2016.6.1
 pywin32==220
 six==1.10.0
 virtualenv==15.0.3
-Werkzeug==0.11.11
+Werkzeug==0.15.3
