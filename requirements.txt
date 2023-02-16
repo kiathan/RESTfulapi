@@ -16,4 +16,4 @@ pytz==2016.6.1
 pywin32==220
 six==1.10.0
 virtualenv==15.0.3
-Werkzeug==0.11.11
+Werkzeug==2.2.3
