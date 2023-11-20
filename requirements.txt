@@ -9,7 +9,7 @@ Jinja2==2.8
 Markdown==2.6.7
 MarkupSafe==0.23
 pefile==2016.3.28
-PyInstaller==3.2
+PyInstaller==5.13.1
 pyparsing==1.5.7
 python-dateutil==2.5.3
 pytz==2016.6.1
